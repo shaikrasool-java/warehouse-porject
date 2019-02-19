@@ -1,0 +1,280 @@
+
+Oct 27, 2018 24:19:11.13 NEW SESSION
+Oct 27, 2018 24:19:11.13 [5036:1756:1026/214907.702:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 24:19:30.25 [5036:1756:1026/214930.258:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 24:20:26.91 [5036:1756:1026/215026.876:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 24:22:19.67 [5036:1756:1026/215219.637:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 24:25:07.54 [5036:1756:1026/215507.542:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 24:32:07.63 [5036:1756:1026/220207.586:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 24:42:07.60 [5036:1756:1026/221207.588:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 24:52:07.62 [5036:1756:1026/222207.597:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 01:02:07.60 [5036:1756:1026/223207.606:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 01:12:07.61 [5036:1756:1026/224207.617:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 01:22:07.63 [5036:1756:1026/225207.631:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Oct 27, 2018 02:09:25.69 NEW SESSION
+Oct 27, 2018 02:09:25.69 [2412:5668:1027/020925.691:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 02:09:46.58 [2412:5668:1027/020946.580:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 02:10:37.56 [2412:5668:1027/021037.567:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 02:12:33.76 [2412:5668:1027/021233.768:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 02:16:15.37 [2412:5668:1027/021615.378:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 02:22:52.26 [2412:5668:1027/022252.267:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 02:32:52.27 [2412:5668:1027/023252.274:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 02:42:52.28 [2412:5668:1027/024252.285:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 27, 2018 04:25:31.73 [2412:5668:1027/042531.728:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Oct 27, 2018 10:58:18.97 NEW SESSION
+Oct 27, 2018 10:58:18.97 [1620:1440:1027/105818.962:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.01 [1620:1440:1027/105818.962:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.05 [1620:1440:1027/105818.962:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.09 [1620:1440:1027/105818.962:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.09 [1620:1440:1027/105818.962:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.09 [1620:1440:1027/105818.962:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.09 [1620:1440:1027/105818.962:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.10 [1620:1440:1027/105818.962:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.10 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.10 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.10 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.10 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.10 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.10 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.10 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.10 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.10 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.10 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.10 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.10 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.10 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.11 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.11 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.11 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.11 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.11 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.11 [1620:1440:1027/105818.963:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.11 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.11 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.12 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.12 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.12 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.12 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.12 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.12 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.12 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.13 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.13 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.13 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.13 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.14 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.15 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.15 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.15 [1620:1440:1027/105818.964:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.15 [1620:1440:1027/105818.965:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.16 [1620:1440:1027/105818.965:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.16 [1620:1440:1027/105818.965:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.16 [1620:1440:1027/105818.965:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.16 [1620:1440:1027/105818.965:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.18 [1620:1440:1027/105818.965:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.18 [1620:1440:1027/105818.965:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.19 [1620:1440:1027/105818.965:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.19 [1620:1440:1027/105818.965:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.19 [1620:1440:1027/105818.965:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.19 [1620:1440:1027/105818.965:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.19 [1620:1440:1027/105818.965:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.19 [1620:1440:1027/105818.965:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.20 [1620:1440:1027/105818.965:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.20 [1620:1440:1027/105818.965:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.20 [1620:1440:1027/105818.965:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.20 [1620:1440:1027/105819.111:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.20 [1620:1440:1027/105819.111:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.20 [1620:1440:1027/105819.111:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.20 [1620:1440:1027/105819.111:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.20 [1620:1440:1027/105819.111:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.20 [1620:1440:1027/105819.111:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.21 [1620:1440:1027/105819.111:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 10:58:19.21 [1620:1440:1027/105819.111:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 27, 2018 11:35:25.42 [1620:1768:1027/113525.424:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+Oct 27, 2018 11:42:18.65 [1620:1768:1027/114218.622:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+Oct 27, 2018 11:57:20.28 [1620:1768:1027/115720.282:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+Oct 27, 2018 12:11:49.27 [1620:1768:1027/121149.273:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+Oct 28, 2018 01:57:52.15 NEW SESSION
+Oct 28, 2018 01:57:52.15 [4960:3224:1028/015752.153:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 28, 2018 01:58:13.30 [4960:3224:1028/015813.301:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 28, 2018 01:59:00.15 [4960:3224:1028/015900.119:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 28, 2018 02:00:36.44 [4960:3224:1028/020036.446:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 28, 2018 02:04:05.80 [4960:3224:1028/020405.751:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 28, 2018 02:09:39.03 [4960:3224:1028/020938.999:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 28, 2018 02:19:39.03 [4960:3224:1028/021939.001:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Oct 29, 2018 02:58:50.64 NEW SESSION
+Oct 29, 2018 02:58:50.64 [1144:3764:1029/025850.617:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 29, 2018 02:59:17.38 [1144:3764:1029/025917.377:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Nov 01, 2018 23:22:44.45 NEW SESSION
+Nov 01, 2018 23:22:44.45 [3932:6632:1101/232244.342:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 23:23:12.19 [3932:6632:1101/232312.197:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 23:24:03.42 [3932:6632:1101/232403.428:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 23:25:45.69 [3932:6632:1101/232545.698:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 23:29:36.22 [3932:6632:1101/232936.225:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 01:39:46.69 [3932:6632:1102/013946.693:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 01:49:46.69 [3932:6632:1102/014946.694:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Nov 05, 2018 10:13:32.15 NEW SESSION
+Nov 05, 2018 10:13:32.15 [2648:5756:1105/101332.145:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+Nov 06, 2018 20:45:54.23 NEW SESSION
+Nov 06, 2018 20:45:54.23 [4224:4824:1106/204554.227:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 20:46:21.49 [4224:4824:1106/204621.492:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 20:47:07.41 [4224:4824:1106/204707.403:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 20:48:34.67 [4224:4824:1106/204834.668:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 20:51:45.11 [4224:4824:1106/205145.112:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 20:58:31.25 [4224:4824:1106/205831.252:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 21:08:31.26 [4224:4824:1106/210831.255:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 21:17:25.58 [4224:4824:1106/211725.586:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Nov 06, 2018 21:18:31.25 [4224:4824:1106/211831.252:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 21:28:07.30 [3664:1952:1106/212807.302:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 21:28:30.52 [3664:1952:1106/212830.523:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 21:29:20.97 [3664:1952:1106/212920.974:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 21:31:18.46 [3664:1952:1106/213118.467:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 21:34:39.23 [3664:1952:1106/213439.234:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 21:41:15.30 [3664:1952:1106/214115.309:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 21:51:15.31 [3664:1952:1106/215115.317:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 22:01:15.32 [3664:1952:1106/220115.328:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Nov 08, 2018 22:46:24.65 NEW SESSION
+Nov 08, 2018 22:46:24.65 [3508:3196:1108/224624.648:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 08, 2018 22:46:48.93 [3508:3196:1108/224648.932:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 08, 2018 22:47:40.40 [3508:3196:1108/224740.394:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 08, 2018 22:49:03.53 [3508:3196:1108/224903.530:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 08, 2018 22:51:49.46 [3508:3196:1108/225149.466:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Nov 09, 2018 03:40:29.93 NEW SESSION
+Nov 09, 2018 03:40:29.93 [844:2596:1109/034029.927:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 09, 2018 03:40:52.07 [844:2596:1109/034052.078:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 09, 2018 05:02:20.23 [844:2596:1109/050220.231:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Nov 09, 2018 05:27:12.14 [844:2596:1109/052712.142:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Nov 09, 2018 05:28:10.15 [844:6236:1109/052810.153:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 09, 2018 05:28:11.11 [844:6236:1109/052811.113:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 09, 2018 05:36:58.36 [844:2596:1109/053658.360:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+
+Nov 10, 2018 03:16:55.24 NEW SESSION
+Nov 10, 2018 03:16:55.24 [6264:6860:1110/031655.201:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 10, 2018 03:17:18.81 [6264:6860:1110/031718.803:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 10, 2018 03:18:00.15 [6264:6860:1110/031800.154:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 10, 2018 03:19:39.13 [6264:6860:1110/031939.137:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 10, 2018 03:22:39.76 [6264:6860:1110/032239.766:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 10, 2018 03:40:14.69 [6264:6860:1110/034014.693:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Nov 13, 2018 01:33:23.80 NEW SESSION
+Nov 13, 2018 01:33:23.80 [5452:3840:1113/013323.749:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 01:33:45.54 [5452:3840:1113/013345.544:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 01:34:33.38 [5452:3840:1113/013433.373:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 01:36:19.50 [5452:3840:1113/013619.495:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 01:39:01.29 [5452:3840:1113/013901.291:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 01:46:56.36 [5452:3840:1113/014656.348:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 02:57:59.02 [4600:212:1113/025759.014:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 13, 2018 02:57:59.66 [4600:212:1113/025759.666:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 13, 2018 02:59:59.08 [4600:212:1113/025959.089:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 13, 2018 03:00:00.73 [4600:212:1113/030000.730:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 13, 2018 03:09:33.91 [4600:1628:1113/030933.909:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Nov 13, 2018 03:11:59.19 [4600:212:1113/031159.193:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 13, 2018 03:12:05.06 [4600:212:1113/031205.068:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 13, 2018 03:24:00.38 [4600:212:1113/032400.384:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+Nov 13, 2018 04:29:23.77 NEW SESSION
+Nov 13, 2018 04:29:23.77 [4756:256:1113/042923.770:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 04:29:47.99 [4756:256:1113/042947.996:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 04:30:34.26 [4756:256:1113/043034.259:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 04:32:09.63 [4756:256:1113/043209.628:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 04:35:33.16 [4756:256:1113/043533.167:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 04:43:15.86 [4756:256:1113/044315.858:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 04:53:15.86 [4756:256:1113/045315.862:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Nov 13, 2018 09:56:17.52 NEW SESSION
+Nov 13, 2018 09:56:17.52 [2204:2344:1113/095617.519:ERROR:component_installer.cc(123)] Move failed.: Access is denied. (0x5)
+Nov 13, 2018 11:27:02.93 [2204:6932:1113/112702.685:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 13, 2018 12:10:01.33 [2204:4548:1113/121001.334:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Nov 13, 2018 12:13:05.37 [2204:4548:1113/121305.372:ERROR:textfield.cc(1767)] NOT IMPLEMENTED
+
+Nov 13, 2018 19:33:09.01 NEW SESSION
+Nov 13, 2018 19:33:09.01 [7388:7116:1113/193309.011:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 19:33:32.40 [7388:7116:1113/193332.374:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 19:34:29.81 [7388:7116:1113/193429.804:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 19:35:58.18 [7388:7116:1113/193558.178:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 19:38:47.00 [7388:7116:1113/193846.999:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 19:53:25.69 [7388:7116:1113/195325.678:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 20:03:25.68 [7388:7116:1113/200325.680:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 20:13:25.68 [7388:7116:1113/201325.682:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 20:54:43.69 [7388:7116:1113/205443.690:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 21:05:27.70 [7388:7116:1113/210527.702:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 13, 2018 21:10:43.60 [7388:6164:1113/211043.606:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 13, 2018 21:38:21.66 [7388:7116:1113/213821.660:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Nov 13, 2018 21:40:21.80 [7388:6164:1113/214021.805:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 13, 2018 21:40:55.24 [7388:1032:1113/214055.246:ERROR:simple_index_file.cc(322)] Could obtain information about cache age
+
+Nov 14, 2018 01:34:39.26 NEW SESSION
+Nov 14, 2018 01:34:39.26 [7720:5484:1114/013439.258:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 14, 2018 01:35:06.74 [7720:5484:1114/013506.745:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 14, 2018 01:35:57.85 [7720:5484:1114/013557.859:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 14, 2018 01:37:37.06 [7720:5484:1114/013737.063:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 14, 2018 01:40:34.63 [7720:5484:1114/014034.630:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 14, 2018 01:47:45.05 [7720:5484:1114/014745.045:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 14, 2018 01:57:45.05 [7720:5484:1114/015745.049:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 14, 2018 02:07:45.05 [7720:5484:1114/020745.052:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 14, 2018 02:17:45.06 [7720:5484:1114/021745.055:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 14, 2018 02:27:45.06 [7720:5484:1114/022745.057:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 14, 2018 02:37:45.06 [7720:5484:1114/023745.062:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Nov 22, 2018 19:33:24.93 NEW SESSION
+Nov 22, 2018 19:33:24.93 [6016:424:1122/193324.902:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 22, 2018 19:33:45.35 [6016:424:1122/193345.356:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 22, 2018 19:34:38.48 [6016:424:1122/193438.482:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 22, 2018 19:36:08.37 [6016:424:1122/193608.373:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 22, 2018 19:39:04.83 [6016:424:1122/193904.832:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 22, 2018 19:46:06.63 [6016:424:1122/194606.638:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 22, 2018 19:56:06.66 [6016:424:1122/195606.652:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Nov 25, 2018 19:35:27.03 NEW SESSION
+Nov 25, 2018 19:35:27.03 [2780:7000:1125/193527.016:ERROR:component_installer.cc(123)] Move failed.: Access is denied. (0x5)
+Nov 25, 2018 19:35:55.79 [2780:7000:1125/193555.797:ERROR:component_installer.cc(123)] Move failed.: Access is denied. (0x5)
+Nov 25, 2018 21:24:22.66 [2780:5336:1125/212422.662:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 25, 2018 21:25:56.10 [2780:4928:1125/212556.085:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 25, 2018 21:25:56.68 [2780:4928:1125/212556.670:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 25, 2018 21:27:50.63 [2780:4928:1125/212750.635:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 25, 2018 21:30:02.67 [2780:4928:1125/213002.674:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 26, 2018 01:46:39.15 [2780:5336:1126/014639.149:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 26, 2018 02:36:07.13 [2780:5336:1126/023607.050:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 26, 2018 02:36:50.19 [2780:5336:1126/023650.192:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 26, 2018 02:38:20.00 [2780:5336:1126/023820.003:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 26, 2018 02:41:26.98 [2780:5336:1126/024126.953:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 26, 2018 02:47:42.40 [2780:5336:1126/024742.402:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 26, 2018 02:57:42.40 [2780:5336:1126/025742.405:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 26, 2018 02:58:27.93 [2780:4928:1126/025827.938:ERROR:extension_protocols.cc(565)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+Nov 26, 2018 02:58:27.94 [2780:4928:1126/025827.939:ERROR:extension_protocols.cc(565)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+Nov 26, 2018 03:07:42.40 [2780:5336:1126/030742.406:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Dec 03, 2018 08:14:26.09 NEW SESSION
+Dec 03, 2018 08:14:26.09 [1203/081426.031:ERROR:crash_report_database_win.cc(428)] unexpected header
+Dec 03, 2018 08:17:54.32 [1203/081754.230:ERROR:crash_report_database_win.cc(428)] unexpected header
+Dec 03, 2018 08:20:13.23 [1203/082013.232:ERROR:crash_report_database_win.cc(428)] unexpected header
+Dec 03, 2018 08:22:15.54 [1203/082215.535:ERROR:crash_report_database_win.cc(428)] unexpected header
+Dec 03, 2018 08:23:09.02 [1203/082309.013:ERROR:crash_report_database_win.cc(428)] unexpected header
+Dec 03, 2018 08:24:56.49 [1203/082456.449:ERROR:crash_report_database_win.cc(428)] unexpected header
+Dec 03, 2018 09:33:10.39 [1203/093310.068:ERROR:crash_report_database_win.cc(428)] unexpected header
+Dec 03, 2018 09:37:31.40 [1203/093731.393:ERROR:crash_report_database_win.cc(428)] unexpected header
+Dec 03, 2018 10:11:10.66 [1203/101110.613:ERROR:crash_report_database_win.cc(428)] unexpected header
+Dec 03, 2018 10:15:45.54 [1203/101544.161:ERROR:crash_report_database_win.cc(428)] unexpected header
+Dec 03, 2018 21:16:45.02 [1203/211644.839:ERROR:crash_report_database_win.cc(428)] unexpected header
+Dec 03, 2018 21:17:34.20 [1203/211734.082:ERROR:crash_report_database_win.cc(428)] unexpected header
+Dec 03, 2018 21:22:29.96 [1203/212229.958:ERROR:crash_report_database_win.cc(428)] unexpected header
+Dec 03, 2018 21:30:03.81 [1203/213003.813:ERROR:crash_report_database_win.cc(428)] unexpected header
+Dec 03, 2018 22:02:43.78 [1203/220243.783:ERROR:crash_report_database_win.cc(428)] unexpected header
+
+Feb 13, 2019 11:47:53.05 NEW SESSION
+Feb 13, 2019 11:47:53.05 [0213/114752.967:ERROR:crash_report_database_win.cc(428)] unexpected header
+
+Feb 14, 2019 02:41:47.99 NEW SESSION
+Feb 14, 2019 02:41:47.99 [0214/024147.910:ERROR:crash_report_database_win.cc(428)] unexpected header
+
+Feb 17, 2019 22:47:35.01 NEW SESSION
+Feb 17, 2019 22:47:35.01 [0217/224734.964:ERROR:crash_report_database_win.cc(428)] unexpected header

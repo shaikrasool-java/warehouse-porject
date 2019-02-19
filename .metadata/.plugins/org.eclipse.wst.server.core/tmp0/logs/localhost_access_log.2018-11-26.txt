@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [26/Nov/2018:02:37:07 -0900] "GET /warehouse/item/all HTTP/1.1" 200 2892
+0:0:0:0:0:0:0:1 - - [26/Nov/2018:02:37:18 -0900] "GET /warehouse/item/reg HTTP/1.1" 200 2080
+0:0:0:0:0:0:0:1 - - [26/Nov/2018:02:37:55 -0900] "GET /warehouse/ordermethod/reg HTTP/1.1" 200 1304
+0:0:0:0:0:0:0:1 - - [26/Nov/2018:02:38:58 -0900] "POST /warehouse/ordermethod/insert HTTP/1.1" 200 1338
+0:0:0:0:0:0:0:1 - - [26/Nov/2018:02:39:03 -0900] "GET /warehouse/item/reg HTTP/1.1" 200 2111
